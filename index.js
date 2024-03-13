@@ -164,13 +164,10 @@ next.addEventListener("click", () => {
 function changeActiveItems() {
   if (currentWidth > 1070) {
     activeItems = 3;
-    
   } else if (currentWidth > 760) {
     activeItems = 2;
-    
   } else {
     activeItems = 1;
-  
   }
 }
 
