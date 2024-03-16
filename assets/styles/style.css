@@ -131,7 +131,7 @@ html {
 
 .container-not-only {
   padding: 40px 40px 243px 40px;
-  background-image: url(assets/images/start-screen-puppy.png);
+  background-image: url(/assets/images/start-screen-puppy.png);
   background-repeat: no-repeat;
   background-position: bottom right 40px;
 }
@@ -703,7 +703,7 @@ html {
   background-image: url("assets/icons/cross.svg");
 }
 
-
+ƒ
 .popup-button:hover {
   background-color: #f1cdb3;
 }
