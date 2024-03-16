@@ -229,4 +229,4 @@ window.addEventListener("resize", debouncedResizeHandler);
 changeActiveItems();
 startSlider();
 
-console.log(`Итого: 110`);
+

@@ -10,7 +10,7 @@ html {
 }
 
 .container-header {
-  background: url(assets/images/noise_transparent@2x.png),
+  background: url(../../assets/images/noise_transparent@2x.png),
     radial-gradient(100% 215.42% at 0% 0%, #5b483a 0%, #262425 100%), #211f20;
 }
 
@@ -131,7 +131,7 @@ html {
 
 .container-not-only {
   padding: 40px 40px 243px 40px;
-  background-image: url(../assets/images/start-screen-puppy.png);
+  background-image: url(../../assets/images/start-screen-puppy.png);
   background-repeat: no-repeat;
   background-position: bottom right 40px;
 }
@@ -186,7 +186,7 @@ html {
 .container-about {
   max-width: 1280px;
   margin: 0 auto;
-  background-image: url(assets/images/about-pets.png);
+  background-image: url(../../assets/images/about-pets.png);
   background-repeat: no-repeat;
   background-position: bottom left 216px;
   padding-bottom: 13px;
@@ -287,7 +287,7 @@ html {
   height: 52px;
   border: 2px solid #f1cdb3;
   border-radius: 100px;
-  background-image: url(assets/icons/prev.svg);
+  background-image: url(../../assets/icons/prev.svg);
   background-repeat: no-repeat;
   background-position: 17px;
 }
@@ -306,7 +306,7 @@ html {
   height: 52px;
   border: 2px solid #f1cdb3;
   border-radius: 100px;
-  background-image: url(assets/icons/next.svg);
+  background-image: url(../../assets/icons/next.svg);
   background-repeat: no-repeat;
   background-position: 17px;
 }
@@ -446,7 +446,7 @@ html {
 .container-donation {
   max-width: 1280px;
   margin: 0 auto;
-  background-image: url(assets/images/donation-dog.png);
+  background-image: url(../../assets/images/donation-dog.png);
   background-repeat: no-repeat;
   background-position: bottom 10px left 183px;
 }
@@ -700,7 +700,7 @@ html {
   border-radius: 100px;
   background-repeat: no-repeat;
   background-position: 18px;
-  background-image: url("assets/icons/cross.svg");
+  background-image: url("../../assets/icons/cross.svg");
 }
 
 ƒ
@@ -1315,7 +1315,7 @@ html {
   }
 }
 .footer {
-  background: url(assets/images/noise_transparent@2x.png),
+  background: url(../../assets/images/noise_transparent@2x.png),
     radial-gradient(110.67% 538.64% at 5.73% 50%, #513d2f 0%, #1a1a1c 100%),
     #211f20;
 }
@@ -1324,7 +1324,7 @@ html {
   max-width: 1280px;
   margin: 0 auto;
   gap: 103px;
-  background-image: url(assets/images/footer-puppy.png);
+  background-image: url(../../assets/images/footer-puppy.png);
   background-repeat: no-repeat;
   background-position: bottom right 40px;
 }
