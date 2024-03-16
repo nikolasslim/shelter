@@ -700,11 +700,10 @@ html {
   border-radius: 100px;
   background-repeat: no-repeat;
   background-position: 18px;
-  background-image: url("../../assets/icons/cross.svg");
+  background-image: url(../../assets/icons/cross.svg);
 }
 
-ƒ
-.popup-button:hover {
+ƒ .popup-button:hover {
   background-color: #f1cdb3;
 }
 

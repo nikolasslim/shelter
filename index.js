@@ -228,5 +228,3 @@ window.addEventListener("resize", debouncedResizeHandler);
 
 changeActiveItems();
 startSlider();
-
-
